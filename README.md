@@ -4,7 +4,7 @@
 
 Welcome to my **EAGLE** Repository.
 
-This is currently work in progress as content is categorised and uploaded / shared, to other EAGLE users.
+This is currently work in progress as content is categorised and uploaded / shared, for other EAGLE users.
 
 All contributions and feedback welcomed.
 
