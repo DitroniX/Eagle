@@ -40,8 +40,8 @@ Additional information, and other technical details on this project, maybe found
 
 **Repository Folders**
 
- - **Files** *(Files and Code examples*
- -  **Datasheets and Information** *(Component Datasheets, Schematics, Board Layouts, Photos, Technical Documentation)*
+ - **Files** *(Files and Code examples)*
+ -  **Datasheets and Information** *(Component Datasheets, Technical Documentation)*
 
 **Repository Tabs**
 
