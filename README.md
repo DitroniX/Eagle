@@ -1,10 +1,14 @@
 # EAGLE (Autodesk - Cadsoft)
 
+## Welcome
+
 Welcome to my **EAGLE** Repository.
 
 This is currently work in progress as content is categorised and uploaded / shared, to other EAGLE users.
 
 All contributions welcomed.
+
+![EAGLE](https://github.com/DitroniX/Eagle/blob/main/Datasheets%20and%20Information/EAGLE%20Slayed.png)
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/Eagle/wiki)
 
@@ -23,7 +27,9 @@ Having built up an array of files over the years, will collate them and post to 
 
 ## Useful Links
 
-JLC https://github.com/JLCPCB/jlcpcb-eagle 
+[JLC PCB](https://jlcpcb.com/)
+
+[JLC EAGLE](https://github.com/JLCPCB/jlcpcb-eagle)
 
 
 ## **Further Information**
