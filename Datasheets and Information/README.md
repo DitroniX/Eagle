@@ -1,25 +1,9 @@
-** EAGLE **
+# EAGLE (Autodesk - Cadsoft)
 
 ------------
 
 This folder contains applicable datasheets and design information relating to EAGLE.
 
-
-## **Further Information**
-
-Additional information, and other technical details on this project, maybe found in the related repository pages.
-
-**Repository Folders**
-
- - **Code** *(Code examples for Arduino  IDE, Raspberry Pi and PlatformIO)*
-
-**Repository Tabs**
-
- - **Wiki** *(Related Repository Wiki pages and Technical User Information)*
- - **Discussions** *(Related Repository User Discussion Forum)*
- - **Issues** *(Related Repository Technical Issues and Fixes)*
-
-***
 
 We value our Customers, Users of our designs and STEM Communities, all over the World . Should you have any other questions, or feedback to share to others, please feel free to:
 
