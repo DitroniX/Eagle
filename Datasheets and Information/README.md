@@ -1,29 +1,8 @@
-# EAGLE (Autodesk - Cadsoft)
+** EAGLE **
 
-Welcome to my **EAGLE** Repository.
+------------
 
-This is currently work in progress as content is categorised and uploaded / shared, to other EAGLE users.
-
-All contributions welcomed.
-
-[![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/Eagle/wiki)
-
-[![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/Eagle/discussions)
-
-[![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)](https://buymeacoffee.com/ditronix)
-
-
-
-## Purpose
-
-The purpose of this repository, is to share EAGLE resources and user contributions.
-
-Having built up an array of files over the years, will collate them and post to the files area.
-
-
-## Useful Links
-
-JLC https://github.com/JLCPCB/jlcpcb-eagle 
+This folder contains applicable datasheets and design information relating to EAGLE.
 
 
 ## **Further Information**
@@ -32,8 +11,7 @@ Additional information, and other technical details on this project, maybe found
 
 **Repository Folders**
 
- - **Files** *(Files and Code examples*
- -  **Datasheets and Information** *(Component Datasheets, Schematics, Board Layouts, Photos, Technical Documentation)*
+ - **Code** *(Code examples for Arduino  IDE, Raspberry Pi and PlatformIO)*
 
 **Repository Tabs**
 
@@ -63,3 +41,4 @@ Electronics Engineer | Software Developer | R&D Support | RF Engineering | Produ
 Life is one long exciting learning curve, help others by setting the seed to knowledge.
 
 ![DitroniX Supporting STEM](https://hackster.imgix.net/uploads/attachments/1606838/stem_ambassador_-_100_volunteer_badge_edxfxlrfbc1_bjdqharfoe1_xbqi2KUcri.png?auto=compress%2Cformat&w=540&fit=max)
+
