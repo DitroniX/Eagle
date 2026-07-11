@@ -11,7 +11,7 @@ These files are provided in good faith and have not been tested.
 All responsibility is solely left with the user downloading and installing.
 
 
-# Contributors
+# Contributors and Acknowledgments
 
 Dave Williams [DitroniX](https://ditronix.net/)
 
