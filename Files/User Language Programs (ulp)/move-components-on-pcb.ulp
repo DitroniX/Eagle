@@ -1,0 +1,38 @@
+// Move Grouped Components from Board back to side.  UNDER DEVELOPMENT!!
+// Dave Williams G8PUO
+// August 2016
+
+if (board) board(B) 
+{
+// E.name, u2mm(E.x), u2mm(E.y), E.package.name);
+// real u2mm(int n);
+// int mm2u(real n); 
+
+string grid = "grid mm;";
+
+real x,y;
+string h, cmd = "", Status = "";
+
+		dlgMessageBox("Moving grouped placed components off board");
+		
+		B.elements(E)
+			if (ingroup(E))
+            	{
+			x = u2mm (E.x);
+			x = x - 1.27;
+			y = u2mm (E.y);
+			h = "";
+			sprintf(h, "MOVE %s (%f %f);\n", E.name, x, y);
+			cmd += h;
+			status("Element: " + E.name);
+		}
+		exit(cmd);
+				
+}
+else
+{
+   dlgMessageBox("\n   Please start this ULP in a Board    \n");
+   exit (0);
+}
+
+

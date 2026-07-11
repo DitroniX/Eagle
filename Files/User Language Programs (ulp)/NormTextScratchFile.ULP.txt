@@ -1,0 +1,4 @@
+Bools:000
+ObStr:20.000000
+CmpSt:0.100000
+IncMs:25 26
