@@ -1,0 +1,34 @@
+Eagle v7.7.0 Windows 32-Bits
+
+0x0017FA6C -> 0F B6 4D 06 <- 31 C9 90 90
+0x0017FD4C -> 75 <- EB
+0x002A3063 -> 74 <- EB
+0x002A3076 -> 74 <- EB
+
+
+
+Eagle v7.7.0 Windows 64-Bits
+
+0x00246838 -> 0F B6 56 06 <- 31 D2 90 90
+0x00246AE4 -> 75 <- EB
+0x003F52C9 -> 74 <- EB
+0x003F52DD -> 74 <- EB
+
+
+Cadsoft Eagle v7.7.0 Windows / Linux (32/64 Bits) / MacOSX (64Bits)
+
+!!!Important!!! Install Autodesk Eagle v7.7.0 as Express (freeware).
+
+For Windows and Linux, just replace the executable files with patched ones.
+
+Mac OSX is slightly diferent method. please check the readme.txt inside the AE770mac64.rar
+or AE770MEDmac.rar to learn how to do the magic.
+
+Note 1. attached Eagle Files.txt contains the complete packages or just the patched executables.
+           feel free to chose the complete package or just the medicine.
+
+Note 2. some people complain about rar5 file format so the complete packages are packed with rar3 file format.
+           Now fixed for all files! (tks to FranzW)
+
+enjoy Smiley
+cRACKn
