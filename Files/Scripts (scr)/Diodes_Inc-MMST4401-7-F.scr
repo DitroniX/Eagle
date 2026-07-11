@@ -1,0 +1,90 @@
+# Created by Ultra Librarian Gold 5.3.71 Copyright © 1999-2010
+# Tanvir Mohammed, Premier Farnell
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'SOT65P210X110-3N.pac';
+Layer 1;
+Smd '1' 44 18 -0 R0 (-38 26);
+Layer 1;
+Smd '2' 44 18 -0 R0 (-38 -26);
+Layer 1;
+Smd '3' 44 18 -0 R0 (38 0);
+Layer 21;
+Wire 6 (27 22) (27 43);
+Wire 6 (-7 -43) (27 -43);
+Wire 6 (27 -43) (27 -22);
+Wire 6 (27 43) (-7 43);
+Wire 6 (-27 4) (-27 -4);
+Wire 6 (12 43) -106 (-3 32);
+Change Size 50;
+Change Ratio 6;
+Text '*' SR0 (-71 38);
+Layer 51;
+Wire 0 (-27 -43) (27 -43);
+Wire 0 (27 -43) (27 43);
+Wire 0 (27 43) (-27 43);
+Wire 0 (-27 43) (-27 -43);
+Wire 0 (-27 18) (-27 33);
+Wire 0 (-27 33) (-43 33);
+Wire 0 (-43 33) (-43 18);
+Wire 0 (-43 18) (-27 18);
+Wire 0 (-27 -33) (-27 -18);
+Wire 0 (-27 -18) (-43 -18);
+Wire 0 (-43 -18) (-43 -33);
+Wire 0 (-43 -33) (-27 -33);
+Wire 0 (27 8) (27 -8);
+Wire 0 (27 -8) (43 -8);
+Wire 0 (43 -8) (43 8);
+Wire 0 (43 8) (27 8);
+Wire 0 (12 43) -180 (-12 43);
+Change Size 50;
+Change Ratio 6;
+Text '*' SR0 (-71 38);
+Layer 25;
+Change Size 82;
+Change Ratio 10;
+Text '>NAME' SR0 (-136 100);
+Layer 27;
+Change Size 82;
+Change Ratio 10;
+Text '>VALUE' SR0 (-136 -175);
+
+
+Edit 'MMST4401-7-F.sym';
+Layer 94;
+Pin 'B' In None Middle R0 Both 0 (-700 0);
+Pin 'E' In None Middle R0 Both 0 (-700 -200);
+Pin 'C' Out None Middle R180 Both 0 (700 0);
+Wire 16 (-500 200) (-500 -400);
+Wire 16 (-500 -400) (500 -400);
+Wire 16 (500 -400) (500 200);
+Wire 16 (500 200) (-500 200);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 10;
+Text '>NAME' SR0 (-211 213);
+Layer 96;
+Change Size 82;
+Change Ratio 10;
+Text '>VALUE' SR0 (-205 -497);
+
+Edit 'MMST4401-7-F.dev';
+Prefix 'U';
+Description 'SURFACE MOUNT TRANSISTO';
+Value Off;
+Add MMST4401-7-F 'A' Next  0 (0 0);
+Package 'SOT65P210X110-3N';
+Technology '';
+Attribute MPN 'MMST4401-7-F';
+Attribute Package 'TSOT-3';
+Attribute OC_FARNELL '1773607';
+Attribute OC_NEWARK '51R6847';
+Attribute Supplier 'DIODES INC.';
+Description 'SURFACE MOUNT TRANSISTOR';
+Connect 'A.B' '1';
+Connect 'A.E' '2';
+Connect 'A.C' '3';

@@ -1,0 +1,95 @@
+# Created by Ultra Librarian Gold 5.3.88 Copyright © 1999-2010
+# Tanvir Mohammed, Premier Farnell
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'CAPCP7343X430N.pac';
+Layer 1;
+Smd '1' 102 89 -0 R90 (-109 0);
+Layer 1;
+Smd '2' 102 89 -0 R90 (109 0);
+Layer 1;
+Layer 21;
+Wire 6 (148 64) (148 89);
+Wire 6 (-148 -64) (-148 -89);
+Wire 6 (-212 0) (-242 0);
+Wire 6 (-227 15) (-227 -15);
+Wire 6 (-148 -89) (148 -89);
+Wire 6 (148 -89) (148 -64);
+Wire 6 (148 89) (-148 89);
+Wire 6 (-148 89) (-148 64);
+Layer 51;
+Wire 6 (-212 0) (-242 0);
+Wire 6 (-227 15) (-227 -15);
+Wire 6 (-148 -89) (148 -89);
+Wire 6 (148 -89) (148 89);
+Wire 6 (148 89) (-148 89);
+Wire 6 (-148 89) (-148 -89);
+Layer 25;
+Change Size 82;
+Change Ratio 10;
+Text '>NAME' SR0 (-186 105);
+Layer 27;
+Change Size 82;
+Change Ratio 10;
+Text '>VALUE' SR0 (-224 -200);
+
+Edit 'CAPH.sym';
+Layer 94;
+Pin '2' Pas None Short R180 Off 1 (300 0);
+Pin '1' Pas None Short R0 Off 1 (0 0);
+Wire 8 (87 25) (87 75);
+Wire 8 (162 0) (200 0);
+Wire 8 (137 -75) (137 75);
+Wire 8 (62 50) (112 50);
+Wire 8 (100 0) (137 0);
+Wire 0 (187 -75) -74 (187 75);
+Layer 97;
+Layer 95;
+Change Size 137;
+Change Ratio 10;
+Text '>NAME' SR0 (-161 82);
+Layer 96;
+Change Size 137;
+Change Ratio 10;
+Text '>VALUE' SR0 (-223 -368);
+
+Edit 'CAPV.sym';
+Layer 94;
+Pin '2' Pas None Short R270 Off 1 (0 0);
+Pin '1' Pas None Short R90 Off 1 (0 -300);
+Wire 8 (0 -100) (0 -137);
+Wire 8 (-75 -137) (75 -137);
+Wire 8 (25 -87) (75 -87);
+Wire 8 (50 -62) (50 -112);
+Wire 8 (0 -162) (0 -200);
+Wire 0 (-75 -187) -74 (75 -187);
+Layer 97;
+Layer 96;
+Change Size 137;
+Change Ratio 10;
+Text '>VALUE' SR0 (100 -418);
+Layer 95;
+Change Size 137;
+Change Ratio 10;
+Text '>NAME' SR0 (100 -168);
+
+Edit 'TAJD227K006RNJ.dev';
+Prefix 'C';
+Description '';
+Value Off;
+Add CAPH 'A' Next  0 (0 0);
+Package 'CAPCP7343X430N';
+Technology '';
+Attribute Supplier 'AVX';
+Attribute MPN 'TAJD227K006RNJ';
+Attribute Value '220UF';
+Attribute VoltageRating '6.3V';
+Attribute CapacitanceTolerance '±10%';
+Attribute OC_FARNELL '1658172';
+Attribute OC_NEWARK '15P3076';
+Attribute Description 'Tantalum Capacitor , 2917';
+Connect 'A.1' '1';
+Connect 'A.2' '2';

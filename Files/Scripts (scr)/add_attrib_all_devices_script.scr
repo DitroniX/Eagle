@@ -1,0 +1,1910 @@
+
+EDIT +3V3.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT +5V.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT +12V.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT +24V.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT 74AC00MTC.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT 74AC32MTC.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT 74FCT164245TPVG.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT 74HC00D.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT 74HC32D.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT 74HC139D.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ACS712.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ACS758LCB-050U-PFF-T.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE L
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ADS7828E-250-ADC.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT AMS1117-3.3.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT AP63203WU-7.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT AP63205WU-7.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ATM90E26-YU.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT AZ23C3V3-7-F.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT B140HW-7.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT BME280-MODULE.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE BMP-180
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT BMP180.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT BSS138.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CABLECLAMP.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-1NF-50V-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-1UF-6.3V-10%-X5R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-1UF-6.3V-20%-X5R(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-1UF-25V-10%-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-4.7UF-10V-10%-X5R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-5.6NF-50V-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-6P8-500V-0.1%-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10NF-16V-10%-X7R(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10NF-50V-10%-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-6.3V-20%-X5R(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-6.3V-20%-X5R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-10V-10%-X5R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-10V-TANT.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-16V-20%(ELEC).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-35V-10%-(2917).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-10UF-50V-10%-(1206).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22PF-50V-5%-(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22UF-6.3V-10%-X5R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22UF-6V3-20%-X5R(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22UF-16V-10%-X5R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22UF-25V-20%-X5R(1210).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22UF-50V(ELEC).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-22UF-50V-TANT.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-27PF-50V-1%-(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-33NF-16V-5%-X7R(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-33NF-100V-10%-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-33PF-50V-5%-(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-100NF-50V-10%-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-100NF-50V-20%-Y5V(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-100UF-6V3-20%(ELEC).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-100UF-25V-20%(ELEC).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-220NF-50V-10%-X7R(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-220UF-6.3V(TANT2917).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-330UF-6V3-20%(ELEC).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CAP-CA0612KRX7R9BB104.dev
+
+  PACKAGE ""
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CH340C.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CH376S.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CN3085.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CR123A-HOLDER.dev
+
+  PACKAGE CR123A-PCB
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT CTBP77VP_D-2PIN.dev
+
+  PACKAGE CTB77VP-D-2
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DB9-EDGE.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DHT22.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DIODE-1N4148.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DIODE-BAR43SFILM.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DIODE-BAS21AVD.dev
+
+  PACKAGE TSOP6
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DIODE-CRS08.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DIODE-HDS10M(BRIDGE).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DIODE-MMBD1403.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DRAM-HM5118160.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT DRAM-KM416V1400BS.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT EEPROM-24CXX.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT EPROM-27C040.dev
+
+  PACKAGE ""
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT EPROM-HEADER-32.dev
+
+  PACKAGE PINHEADER32
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT EPROM-PLCC32.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ESP12S.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ESP32-S2-WROOM.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT ESP32-WROOM-32.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FB-MH2029-601Y.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FIDUCIAL.dev
+
+  PACKAGE ""
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X2.5
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE ROUND
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A3L.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A3L-DITRONIX.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A3L-DITRONIX.NET.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A3L-G8PUO.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A3L-GEMCLUB.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A3L-HAMKIT.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A4L.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A4L-DX.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A4L-DX.NET.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A4L-GEMCLUB.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FRAME-A4L-HAMKIT.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FUSE-0685P6000-01-6A-QB.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT FUSE-NRF-SF-1206F080-2-800MA.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT GND.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT GNDA.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT GNDD.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT HOLE-MOUNT.dev
+
+  PACKAGE 2.8
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.0
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.2
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.3
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.6
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 4.1
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 4.3
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 4.5
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 5.0
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 5.5
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT HOLE-PAD.dev
+
+  PACKAGE 2.0
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 2.8
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.0
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.2
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.3
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3.6
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 4.1
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 4.3
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 4.5
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 5.0
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 5.5
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT IND-LPS4012-333MRB.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE V
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT IND-LPS4012-682MLB.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE V
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT IND-NRS3015T330MNGH.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT JST-2P-2.0-SH-HORZ.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT JST-2P-2.0-SH-VERT.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT JST_6_PIN_HORZ.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT JST_6_PIN_VERT.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT JUMPER-SMD.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT JUMPER-SMD-3.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT L78L05ABUTR.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT L6205D.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT L6981.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT LED-SMD.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT LED_GB-C19HE1WT-Y.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT LED_LTST-C19HE1WT.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT LOGIC-NL7SZ97.dev
+
+  PACKAGE SC-74
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE SC-88
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MAX485CSA.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MAX485ESA.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MAX3232.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MCP1703T-XX02E/TT.dev
+
+  PACKAGE SOT23A
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MCP3008.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MCP3221.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MCP3428-E/SL.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MCP9808.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT MCP23017.dev
+
+  PACKAGE SS
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT NLAST4599.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT NTC-10K(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT NTC-10K(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PCA9501.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PCB-TERMINAL-BLOCK.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PCF8574AT.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X1.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X2.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X2-STB-KF350-2P.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X3.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 3C
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X3R.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X4.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X04C
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X4R.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X04C
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X5.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X5R.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X6.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X06E
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X06EL
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X6-CABLE.dev
+
+  PACKAGE 1X06E
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X06EL
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X6R.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X06C
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X06E
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X6R-CABLE.dev
+
+  PACKAGE 1X06E
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1X06EL
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X7.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X8.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X8R.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X9.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE GEM-9W
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE SMD
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X10.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X10R.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X11.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X12.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X13.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X14.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X15.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X16.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X17.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X18.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X19.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-1X20.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE /90
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-2X16.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE DUAL
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE RV
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE SMT
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-2X17.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-2X22-PTH.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-2X22-SMD.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PINHD-2X22-SMD-REV.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PJ320D-PTH-4POLE.dev
+
+  PACKAGE PJ320D4POLE
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PJ321-SMT-3POLE.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PLACEHOLDER.dev
+
+  PACKAGE 0603
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 0805
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PMT280ENEAX-MOSFET-N.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT PTC-1206L035YR-6V-0.35A-0.75A.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RELAY-G6K-2F-Y-DC5.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-0R-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-0R-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-0R-1%-1/8W(1206).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-1K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-1K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-1K8-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-1M-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-1M-1%-1/2W-HPAS(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-1M-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-2K7-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-2M-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-2M-1%-1/2W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-2R4-1%-0.25W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-2R4-5%-1/2W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-4K7-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-6R8-5%-2W(2010).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-10K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-10K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-12R-1%-0.25W-HPAS(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-18K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-22R-1%-1/2W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-33R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-47K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-47K-1%-1/2W-HPAS(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-47R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-51.1R-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-56R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-68K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-75K-1%-1/2W-HPAS(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-75R-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-82K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-82R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-100K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-100R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-120R-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-150K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-160K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-160K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-210K-1%-1/2W-HPAS(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-220R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-237K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-274K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-330K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-330K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-330K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-330R-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-360R-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-390K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-470K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-470K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-470K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-470R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-510K-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-680K-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-680K-1%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-680R-1%-0.1W(0603).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-680R-5%-1/8W(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-102J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-103J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-104J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-153J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-223J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-330J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-470J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-471J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-472J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-474J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-561J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-CAT16-681J4LF.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-GENERIC(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT RES-PRECISION(0805).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SDRAM-K4S281632C.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SEN-MPS20N004D.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SFH2440-WX.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE SFH_2440_LM
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE SFH_2440_LN
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SJ1W.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE W
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SJ2W.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE W
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SJ2W-CLOSED.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE W
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SRAM-628512.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE SOP32
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE TSOPII-32
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SRAM-AS6C4008-55XIN.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SRAM-HM628512ALFP-7.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SWITCH-TACTILE-2X7.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SWITCH-TACTILE-3.5X6.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SWITCH-TACTILE-6X6.dev
+
+  PACKAGE -SMD-5.2MM
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT SWITCH-TACTILE-TS1188E.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TLP281-4.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TP.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 0.1"
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE 1.5X2.0MM_NOCREAM
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE PAD
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE ROUND0.5MM
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE ROUND1MM
+    TECHNOLOGY ''
+      ATTRIB  
+
+  PACKAGE ROUND2MM
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TRANSISTOR-MBT2907A-PNP.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TRANSISTOR-MMBT3904LT3G.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TRANSISTOR-MUN2111-PNP.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TRANSISTOR-MUN2211-NPN.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT TRANSISTOR-PDTC124XU-NPN.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT USB-MICRO-001G.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT USB-MICRO-105133-0011.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT USB-MICRO-SDT-235.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT V+.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT V-.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT VAR-38V-200A-1206.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT VARISTOR-40V.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT VCC.dev
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT XTAL-8.192MHZ(DUAL).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT XTAL-8MHZ-(3P-3.6X1.3MM).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT XTAL-12MHZ-(3.20MMX2.50MM).dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
+
+EDIT XTAL-ABM8-27.dev
+
+  PACKAGE ''
+    TECHNOLOGY ''
+      ATTRIB  
