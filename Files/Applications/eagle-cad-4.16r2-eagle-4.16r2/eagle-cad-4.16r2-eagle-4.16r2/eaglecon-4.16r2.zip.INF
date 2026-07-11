@@ -1,0 +1,7 @@
+Description:
+The program 'eaglecon.exe' contained in this archive is the
+same as the normal 'eagle.exe', except that it doesn't release
+its connection to the console it has been started from. It is therefore
+better suited for use with batch scripts.
+
+YOU ONLY NEED THIS IF YOU WANT TO RUN EAGLE FROM A WINDOWS BATCH FILE!
