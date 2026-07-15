@@ -45,6 +45,9 @@ EAGLE 9.3.0 (16 Jan 2019)
 
 EAGLE 9.2.2 (26 Oct 2018)
 
+EAGLE 8.2.2 (7 JUl 2017)
+
+
 ## Cadsoft
 
 Eagle Cad-8.2 Eagle-8.2.2 (7 Jul 2017)
