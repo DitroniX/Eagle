@@ -12,13 +12,27 @@ All contributions and feedback welcomed.
 
 ![EAGLE](https://github.com/DitroniX/Eagle/blob/main/Datasheets%20and%20Information/EAGLE%20Slayed.png)
 
+## FULL Versions are available for download from YASIR
+
+![EAGLE CAD Unlocked](https://github.com/DitroniX/Eagle/blob/main/Datasheets%20and%20Information/EAGLE%20Premium%20Unlocked.png)
+
+Seems it has not taken long to get an unlocked EAGLE application.   certainly V9.6.2, works perfectly.
+
+### NOTE: I really do not Condon software piracy in any way.  
+
+However, as full licences are not longer available, and thousands of users worldwide were effectively taken for granted and forced into a very difficult situation, then this good deed by YASIR in taking time to resolve the issues we face, seems good.
+
+* (EAGLE 9 Full Premium 9.6.2)[https://www.yasir252.com/en/applications/eagle-9/]
+* (Eagle 8 Full Version for Windows (x64)) [https://www.yasir252.com/en/applications/download-eagle-8-full/]
+* (Eagle 7 Full PC v7.7.0)[https://www.yasir252.com/en/applications/cadsoft-eagle-7-download-full-crack/]
+
+## Other links
+
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/Eagle/wiki)
 
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/Eagle/discussions)
 
 [![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)](https://buymeacoffee.com/ditronix)
-
-
 
 ## Purpose
 
