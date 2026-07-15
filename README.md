@@ -20,7 +20,9 @@ Seems it has not taken long to get an unlocked EAGLE application.   certainly V9
 
 ### NOTE: I really do not Condon software piracy in any way.  
 
-However, as full licences are not longer available, and thousands of users worldwide were effectively taken for granted and forced into a very difficult situation, then this good deed by YASIR in taking time to resolve the issues we face, seems good.
+However, as full licences are no longer available, and thousands of users worldwide were effectively taken for granted and forced into a very difficult situation, then this good deed by YASIR in taking time to resolve the issues we face, seems good.
+
+**Remember**, run in a Virtual machine, or PC with no Internet, or use simply use Firewall blocking.
 
 * (EAGLE 9 Full Premium 9.6.2)[https://www.yasir252.com/en/applications/eagle-9/]
 * (Eagle 8 Full Version for Windows (x64)) [https://www.yasir252.com/en/applications/download-eagle-8-full/]
