@@ -12,19 +12,32 @@ All contributions and feedback welcomed.
 
 ![EAGLE](https://github.com/DitroniX/Eagle/blob/main/Datasheets%20and%20Information/EAGLE%20Slayed.png)
 
-## FULL Versions are available for download from YASIR
+## FULL Versions are available for download.  Ideal for testing and evaluation.
+
+Seems it has not taken long to get an unlocked EAGLE application.
 
 ![EAGLE CAD Unlocked](https://github.com/DitroniX/Eagle/blob/main/Datasheets%20and%20Information/EAGLE%20Premium%20Unlocked.png)
 
-Seems it has not taken long to get an unlocked EAGLE application.   certainly V9.6.2, works perfectly.
+### **NOTE**: I really do not Condon software piracy in any way.  
 
-### NOTE: I really do not Condon software piracy in any way.  
+This is something I would not normally do and my software is always licenced.  However, as in this specific instance, full licences are no longer available, and thousands of users worldwide were effectively taken for granted and forced into a very difficult situation.  For this reason only, this is arguably a balanced deed by taking time to resolve the issues we face.
 
-However, as full licences are not longer available, and thousands of users worldwide were effectively taken for granted and forced into a very difficult situation, then this good deed by YASIR in taking time to resolve the issues we face, seems good.
+## Security Checks
 
-* (EAGLE 9 Full Premium 9.6.2)[https://www.yasir252.com/en/applications/eagle-9/]
-* (Eagle 8 Full Version for Windows (x64)) [https://www.yasir252.com/en/applications/download-eagle-8-full/]
-* (Eagle 7 Full PC v7.7.0)[https://www.yasir252.com/en/applications/cadsoft-eagle-7-download-full-crack/]
+Certainly V9.6.2, works perfectly and have not found, or noted, any issues. It installed exactly as the original. 
+
+Scanned the files locally and online, with no Antivirus, Malware or Cyber, threats found.
+
+You should do the same, to verify.
+
+**Remember**, download at your own risk.  Always scan any downloaded files for any threats as a matter of course. 
+
+If you must interact, proceed with extreme caution and ensure your real-time antivirus protection is active.
+
+Run EAGLE in a sand-box Virtual machine, or on a PC with no Internet, or use Firewall blocking.
+
+* If you are sure you wish to check this file, then EAGLE 9 Full Premium 9.6.2 can be found: https://www.yasir252.com/en/applications/eagle-9/
+
 
 ## Other links
 
