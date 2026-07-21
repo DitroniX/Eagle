@@ -30,7 +30,17 @@ Scanned the files locally and online, with no Antivirus, Malware or Cyber, threa
 
 You should do the same, to verify.
 
-**Remember**, download at your own risk.  Always scan any downloaded files for any threats as a matter of course. 
+## Other Info
+
+Should you have a previous subscription, with a previous install, you need to make a small change.
+
+1) Rename/remove the *subscription.v1* file, found in \AppData\Roaming\Eagle
+
+This will save any possible hang-ups when closing the EAGLE application, especially with firewall blocking in place.
+
+## Remember
+
+Download at your own risk.  Always scan any downloaded files for any threats as a matter of course. 
 
 If you must interact, proceed with extreme caution and ensure your real-time antivirus protection is active.
 
