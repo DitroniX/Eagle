@@ -36,7 +36,7 @@ Should you have a previous subscription, with a previous install, you need to ma
 
 1) Rename/remove the *subscription.v1* file, found in \AppData\Roaming\Eagle
 
-This will save any possible hang-ups when closing the EAGLE application, especially with firewall blocking in place.
+This will save any possible hang-ups when closing the EAGLE application, [especially with firewall blocking in place](https://github.com/DitroniX/Eagle/wiki/EAGLE-Not-Closing).
 
 ## Remember
 
